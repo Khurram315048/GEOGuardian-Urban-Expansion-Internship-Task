@@ -1,0 +1,10 @@
+fastapi
+uvicorn
+streamlit
+geemap
+earthengine-api
+requests
+folium
+fpdf
+geopy
+

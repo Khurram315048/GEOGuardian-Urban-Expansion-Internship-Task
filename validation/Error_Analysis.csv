@@ -1,0 +1,16 @@
+Error_ID,Latitude,Longitude,Predicted_by_GeoGuardian,Actual_Google_Maps,Reason_for_Error
+1,30.18688,71.55775,Built-up (Red),Barren Land / Dry Soil,Spectral confusion between dry barren soil and concrete built-up area in NDBI/Sentinel-2
+2,30.25724,71.51511,Built-up (Red),Barren Land / Dry Soil,Spectral confusion between dry barren soil and concrete built-up area in NDBI/Sentinel-2
+3,30.26493,71.52983,Built-up (Red),Barren Land / Dry Soil,Spectral confusion between dry barren soil and concrete built-up area in NDBI/Sentinel-2
+4,30.11125,71.51805,Built-up (Red),Barren Land / Dry Soil,Spectral confusion between dry barren soil and concrete built-up area in NDBI/Sentinel-2
+5,30.20193,71.51709,Built-up (Red),Barren Land / Dry Soil,Spectral confusion between dry barren soil and concrete built-up area in NDBI/Sentinel-2
+6,30.18513,71.50221,Built-up (Red),Barren Land / Dry Soil,Spectral confusion between dry barren soil and concrete built-up area in NDBI/Sentinel-2
+7,30.14998,71.53657,Built-up (Red),Barren Land / Dry Soil,Spectral confusion between dry barren soil and concrete built-up area in NDBI/Sentinel-2
+8,30.13158,71.53016,Built-up (Red),Barren Land / Dry Soil,Spectral confusion between dry barren soil and concrete built-up area in NDBI/Sentinel-2
+9,30.17077,71.50309,Built-up (Red),Barren Land / Dry Soil,Spectral confusion between dry barren soil and concrete built-up area in NDBI/Sentinel-2
+10,30.27972,71.51672,Built-up (Red),Barren Land / Dry Soil,Spectral confusion between dry barren soil and concrete built-up area in NDBI/Sentinel-2
+11,30.16818,71.5545,Built-up (Red),Barren Land / Dry Soil,Spectral confusion between dry barren soil and concrete built-up area in NDBI/Sentinel-2
+12,30.20338,71.51437,Built-up (Red),Barren Land / Dry Soil,Spectral confusion between dry barren soil and concrete built-up area in NDBI/Sentinel-2
+13,30.23654,71.50869,Built-up (Red),Barren Land / Dry Soil,Spectral confusion between dry barren soil and concrete built-up area in NDBI/Sentinel-2
+14,30.17545,71.52937,Built-up (Red),Barren Land / Dry Soil,Spectral confusion between dry barren soil and concrete built-up area in NDBI/Sentinel-2
+15,30.28492,71.55914,Built-up (Red),Barren Land / Dry Soil,Spectral confusion between dry barren soil and concrete built-up area in NDBI/Sentinel-2
