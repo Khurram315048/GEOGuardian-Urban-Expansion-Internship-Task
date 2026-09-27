@@ -26,7 +26,8 @@ try:
     response=requests.get(API_URL)
     data=response.json()
     geo_response=requests.get(GEO_API_URL)
-except requests.exceptions.ConnectionError:
+except requests.exceptions.ConnectionError as ce:
+    print(f"Error during backend : {str(ce)}")
     st.error("Backend Error")
     st.stop()
 
