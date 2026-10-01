@@ -22,6 +22,20 @@ st.sidebar.divider()
 API_URL=f"http://127.0.0.1:8000/api/analyze?city={selected_city}&year={selected_year}"
 GEO_API_URL=f"http://127.0.0.1:8000/api/geojson?city={selected_city}"
 
+
+# @st.cache_data(ttl=3600,show_spinner="Fetching data from FastApi...")
+# def fetch_backend_data(api_url,geo_api_url):
+#     try:
+#         resonse=requests.get(api_url)
+#         g_res=requests.get(geo_api_url)
+#         return resonse.json(),g_res.json()
+#     except requests.exceptions.ConnectionError:
+#         return None,None
+
+# data,geo_data=fetch_backend_data(API_URL,GEO_API_URL)
+# if data is None:
+#     st.error("Backend Error: Ensure API is running")
+#     st.stop()
 try:
     response=requests.get(API_URL)
     data=response.json()
